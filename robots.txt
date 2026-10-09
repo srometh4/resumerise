@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://resumerise-cv-studio.akilawicks4567.chatgpt.site/sitemap.xml
